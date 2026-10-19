@@ -12,7 +12,7 @@ Progress and goals follow your Friend through the game server.
 
 ## Daily Heist
 
-One sealed vault per UTC day. 150 RF buys three attempts, with no extra attempts. Fewest turns wins; server time breaks ties. At midnight UTC: 80% to the winner, 10% burned and 10% to Friend rewards. Fewer than two entrants or no clean win means full refunds. Closed days offer free practice and solutions.
+One vault per UTC day, revealed when your try starts. 150 RF buys three attempts, with no extra attempts. Fewest turns wins; server time breaks ties. At midnight UTC: 80% to the winner, 10% burned and 10% to Friend rewards. Fewer than two entrants or no clean win means full refunds. The archive offers free practice and solutions for the last 7 closed UTC days.
 
 ## Shop and Last Heist
 
