@@ -12,10 +12,10 @@ Progress and goals follow your Friend through the game server.
 
 ## Daily Heist
 
-One vault per UTC day, revealed when your try starts. 150 RF buys three attempts, with no extra attempts. Fewest turns wins; server time breaks ties. At midnight UTC: 80% to the winner, 10% burned and 10% to Friend rewards. Fewer than two entrants or no clean win means full refunds. The archive offers free practice and solutions for the last 7 closed UTC days.
+One vault per UTC day. Paid entry (150 RF for three ranked attempts) is coming soon. Until then the archive offers free practice and solutions for the last 7 closed UTC days.
 
 ## Shop and Last Heist
 
-Hatchwork and Signal Paper themes cost 250 RF each, Golden Trail costs 500 RF, and The Black Archive adds three heists for 2,500 RF. Payments use the platform confirmation dialog; paid actions become available after platform registration.
+Hatchwork and Signal Paper themes cost 250 RF each, Golden Trail costs 500 RF, and The Black Archive adds three heists for 2,500 RF. Payments use the platform confirmation dialog.
 
 Last Heist is a free shared challenge: clear the current vault, hold it, then add one wall and prove a clean way out. No RF stakes.
